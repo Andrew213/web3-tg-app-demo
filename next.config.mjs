@@ -4,6 +4,7 @@ const nextConfig = {
     unoptimized: true,
   },
   output: "standalone",
+  basePath: "/tg-web3-demo",
 };
 
 export default nextConfig;
